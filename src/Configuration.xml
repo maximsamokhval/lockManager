@@ -68,6 +68,8 @@
 			<Language>Русский</Language>
 			<Role>Расш1_DefaultRole</Role>
 			<CommonModule>Расш1_МенеджерПрограммнойБлокировки</CommonModule>
+			<Catalog>_ДЕМО_Справочник</Catalog>
+			<DataProcessor>Расш1_runner</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

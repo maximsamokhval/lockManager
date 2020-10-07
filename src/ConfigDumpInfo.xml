@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
+		<Metadata name="Catalog._ДЕМО_Справочник" id="119783e3-9711-4e0e-8f64-7e99895a5174" configVersion="21943c1e6951befe3c377622f1ca95604b03fa28"/>
 		<Metadata name="CommonModule.Расш1_МенеджерПрограммнойБлокировки" id="9f1c3aa6-6ae6-4b22-8f45-73c956a0100f" configVersion="01fa9a85115fb52f00483d90d149d63e76ce3e7b"/>
-		<Metadata name="CommonModule.Расш1_МенеджерПрограммнойБлокировки.Module" id="9f1c3aa6-6ae6-4b22-8f45-73c956a0100f.0" configVersion="568bd870e31809446d05759b20aa314906bbab25"/>
-		<Metadata name="Configuration.МенеджерПрограммнойБлокировки" id="1c7e4911-996e-4f9f-881d-db1d8a0c1fed" configVersion="b9974dc473a420df4bc16efc5a2b98800f8511c7"/>
+		<Metadata name="CommonModule.Расш1_МенеджерПрограммнойБлокировки.Module" id="9f1c3aa6-6ae6-4b22-8f45-73c956a0100f.0" configVersion="2ed05dbe293ae1390f2696c41549d823a5016642"/>
+		<Metadata name="Configuration.МенеджерПрограммнойБлокировки" id="1c7e4911-996e-4f9f-881d-db1d8a0c1fed" configVersion="27d856fd025bd3770de331ca8d6bf7d841f16d66"/>
+		<Metadata name="DataProcessor.Расш1_runner" id="4ded1238-09e9-4ba9-81f5-dcfa7d3a0297" configVersion="8dd2e3421a99b88f3b68138cfcc9242ffed258f6">
+			<Metadata name="DataProcessor.Расш1_runner.Attribute.ОбъектБлокировки" id="137acaf5-ae3c-4171-bd8a-f2f6c2c0fbff"/>
+		</Metadata>
+		<Metadata name="DataProcessor.Расш1_runner.Form.Форма" id="395d6936-72c7-4cc8-b485-17653df79dbd" configVersion="e505ae14ebe711299f932f1b397cd8e0ed148b70"/>
+		<Metadata name="DataProcessor.Расш1_runner.Form.Форма.Form" id="395d6936-72c7-4cc8-b485-17653df79dbd.0" configVersion="64be1386583d8a01f50afa19e6a720e1b4c11997"/>
 		<Metadata name="Language.Русский" id="48103ec4-f85a-4e23-a813-ccffa7328afe" configVersion="34369c8a1f6cbb516a88232bb755cf98e88ce859"/>
-		<Metadata name="Role.Расш1_DefaultRole" id="73a95f72-b159-457c-a52f-0a67a506de42" configVersion="2e5980d8650a07b71b93de570115fab054c33cd0"/>
+		<Metadata name="Role.Расш1_DefaultRole" id="73a95f72-b159-457c-a52f-0a67a506de42" configVersion="6c882bd61fe2c2ae67113c196f26c295508d0088"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
