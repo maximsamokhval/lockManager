@@ -11,11 +11,21 @@
 		</ChildItems>
 	</AutoCommandBar>
 	<ChildItems>
+		<InputField name="ВремяОжидания" id="9">
+			<DataPath>Объект.ВремяОжидания</DataPath>
+			<ContextMenu name="ВремяОжиданияКонтекстноеМеню" id="10"/>
+			<ExtendedTooltip name="ВремяОжиданияРасширеннаяПодсказка" id="11"/>
+		</InputField>
 		<InputField name="ОбъектБлокировки" id="3">
 			<DataPath>Объект.ОбъектБлокировки</DataPath>
 			<ContextMenu name="ОбъектБлокировкиКонтекстноеМеню" id="4"/>
 			<ExtendedTooltip name="ОбъектБлокировкиРасширеннаяПодсказка" id="5"/>
 		</InputField>
+		<TextDocumentField name="Информация" id="6">
+			<DataPath>Информация</DataPath>
+			<ContextMenu name="ИнформацияКонтекстноеМеню" id="7"/>
+			<ExtendedTooltip name="ИнформацияРасширеннаяПодсказка" id="8"/>
+		</TextDocumentField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
@@ -23,6 +33,21 @@
 				<v8:Type>cfg:DataProcessorObject.Расш1_runner</v8:Type>
 			</Type>
 			<MainAttribute>true</MainAttribute>
+		</Attribute>
+		<Attribute name="Информация" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Информация</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
 		</Attribute>
 	</Attributes>
 	<Commands>
