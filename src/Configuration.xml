@@ -50,7 +50,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.Расш1_DefaultRole</xr:Item>
 			</DefaultRoles>
 			<Vendor>maxim.samokhval@gmail.com</Vendor>
-			<Version>0.0.1</Version>
+			<Version>0.0.2</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>

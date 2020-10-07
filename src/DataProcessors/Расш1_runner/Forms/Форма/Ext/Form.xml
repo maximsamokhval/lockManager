@@ -8,6 +8,16 @@
 				<CommandName>Form.Command.Заблокировать</CommandName>
 				<ExtendedTooltip name="ФормаЗаблокироватьРасширеннаяПодсказка" id="2"/>
 			</Button>
+			<Button name="ФормаРазблокировать" id="12">
+				<Type>CommandBarButton</Type>
+				<CommandName>Form.Command.Разблокировать</CommandName>
+				<ExtendedTooltip name="ФормаРазблокироватьРасширеннаяПодсказка" id="13"/>
+			</Button>
+			<Button name="ФормаОстановитьВсеБлокировки" id="14">
+				<Type>CommandBarButton</Type>
+				<CommandName>Form.Command.ОстановитьВсеБлокировки</CommandName>
+				<ExtendedTooltip name="ФормаОстановитьВсеБлокировкиРасширеннаяПодсказка" id="15"/>
+			</Button>
 		</ChildItems>
 	</AutoCommandBar>
 	<ChildItems>
@@ -65,6 +75,46 @@
 				</v8:item>
 			</ToolTip>
 			<Action>Заблокировать</Action>
+		</Command>
+		<Command name="Разблокировать" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Разблокировать</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Разблокировать</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Picture>
+				<xr:Ref>StdPicture.Clear</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>Разблокировать</Action>
+			<Representation>TextPicture</Representation>
+		</Command>
+		<Command name="ОстановитьВсеБлокировки" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Остановить все блокировки</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Остановить все блокировки</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Picture>
+				<xr:Ref>StdPicture.DialogStop</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>ОстановитьВсеБлокировки</Action>
+			<Representation>TextPicture</Representation>
 		</Command>
 	</Commands>
 </Form>
