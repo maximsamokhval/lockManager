@@ -64,6 +64,7 @@
 					<v8:content>Заблокировать</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Action>Заблокировать</Action>
 		</Command>
 	</Commands>
 </Form>

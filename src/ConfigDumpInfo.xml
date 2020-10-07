@@ -4,14 +4,14 @@
 		<Metadata name="Catalog._ДЕМО_Справочник" id="119783e3-9711-4e0e-8f64-7e99895a5174" configVersion="21943c1e6951befe3c377622f1ca95604b03fa28"/>
 		<Metadata name="Catalog._ДЕМО_Справочник.ManagerModule" id="119783e3-9711-4e0e-8f64-7e99895a5174.3" configVersion="70cbca961b93c644573a473071d365aada4883c3"/>
 		<Metadata name="CommonModule.Расш1_МенеджерПрограммнойБлокировки" id="9f1c3aa6-6ae6-4b22-8f45-73c956a0100f" configVersion="01fa9a85115fb52f00483d90d149d63e76ce3e7b"/>
-		<Metadata name="CommonModule.Расш1_МенеджерПрограммнойБлокировки.Module" id="9f1c3aa6-6ae6-4b22-8f45-73c956a0100f.0" configVersion="bdb61b235ae52f336c312d209331afad8d1cb0b1"/>
+		<Metadata name="CommonModule.Расш1_МенеджерПрограммнойБлокировки.Module" id="9f1c3aa6-6ae6-4b22-8f45-73c956a0100f.0" configVersion="74e03a51f25224cffef245caae4e566feb35c0ee"/>
 		<Metadata name="Configuration.МенеджерПрограммнойБлокировки" id="1c7e4911-996e-4f9f-881d-db1d8a0c1fed" configVersion="e64e91aa21d379dbfc249d4e7932adac6d3e1b59"/>
-		<Metadata name="DataProcessor.Расш1_runner" id="4ded1238-09e9-4ba9-81f5-dcfa7d3a0297" configVersion="c30248c0254f386679859fe62a4d0d0a5d2feb7d">
+		<Metadata name="DataProcessor.Расш1_runner" id="4ded1238-09e9-4ba9-81f5-dcfa7d3a0297" configVersion="0a51227083cba08ec706aa491ef0f437e0799053">
 			<Metadata name="DataProcessor.Расш1_runner.Attribute.ОбъектБлокировки" id="137acaf5-ae3c-4171-bd8a-f2f6c2c0fbff"/>
 			<Metadata name="DataProcessor.Расш1_runner.Attribute.ВремяОжидания" id="1c571b43-c4f1-4956-8b31-e50a6e28a190"/>
 		</Metadata>
 		<Metadata name="DataProcessor.Расш1_runner.Form.Форма" id="395d6936-72c7-4cc8-b485-17653df79dbd" configVersion="e505ae14ebe711299f932f1b397cd8e0ed148b70"/>
-		<Metadata name="DataProcessor.Расш1_runner.Form.Форма.Form" id="395d6936-72c7-4cc8-b485-17653df79dbd.0" configVersion="1a8d4ad2c17db2d2fa5a648f0e88c46021c8ed84"/>
+		<Metadata name="DataProcessor.Расш1_runner.Form.Форма.Form" id="395d6936-72c7-4cc8-b485-17653df79dbd.0" configVersion="5b907075ba72a4ee85aa2cf21dad60787e1d376e"/>
 		<Metadata name="DataProcessor.Расш1_runner.ObjectModule" id="4ded1238-09e9-4ba9-81f5-dcfa7d3a0297.0" configVersion="8ea8fa716e3c067ae6c3da7dbca1e7dc2fe608e6"/>
 		<Metadata name="Language.Русский" id="48103ec4-f85a-4e23-a813-ccffa7328afe" configVersion="34369c8a1f6cbb516a88232bb755cf98e88ce859"/>
 		<Metadata name="Role.Расш1_DefaultRole" id="73a95f72-b159-457c-a52f-0a67a506de42" configVersion="6c882bd61fe2c2ae67113c196f26c295508d0088"/>
